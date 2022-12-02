@@ -3,9 +3,9 @@
 # Авторы
 1. [Басан Елена Сергеевна](https://github.com/lennylenny161), контакты: ebasan@sfedu.ru
 2. Басан Александр Сергеевич, контакты: deb@ec-integra.ru
-3. Лесников Александр Александрович, контакты: alesnikov@sfedu.ru, https://github.com/Less13-afk
-4. Могильный Антон Богданович, контакты: mogilnyy@sfedu.ru, https://github.com/cardanol
-5. 
+3. [Лесников Александр Александрович](https://github.com/Less13-afk), контакты: alesnikov@sfedu.ru
+4. [Могильный Антон Богданович](https://github.com/cardanol), контакты: mogilnyy@sfedu.ru
+5. Лапшичев Виталий Витальевич, контакты: frotaganrog@mail.ru
 # TerminaTOR
 #### Программа TerminaTOR для ОС Linux предназначена для определения сигнатур трафика запрещенной в РФ сети TOR внутри локальной сети
 ## Описание модулей программы
