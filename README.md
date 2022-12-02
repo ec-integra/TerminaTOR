@@ -1,5 +1,11 @@
 # EC-INTEGRA
 ![176a12e4-7bcb-4015-8b15-6ab9d2d9bff5](https://user-images.githubusercontent.com/76482784/197170508-a7b5c1c9-eef0-41e8-81e7-8692668282a2.jpg)
+# Авторы
+1. [Басан Елена Сергеевна](https://github.com/lennylenny161), контакты: ebasan@sfedu.ru
+2. Басан Александр Сергеевич, контакты: deb@ec-integra.ru
+3. Лесников Александр Александрович, контакты: alesnikov@sfedu.ru, https://github.com/Less13-afk
+4. Могильный Антон Богданович, контакты: mogilnyy@sfedu.ru, https://github.com/cardanol
+5. 
 # TerminaTOR
 #### Программа TerminaTOR для ОС Linux предназначена для определения сигнатур трафика запрещенной в РФ сети TOR внутри локальной сети
 ## Описание модулей программы
